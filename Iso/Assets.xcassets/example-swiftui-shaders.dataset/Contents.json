@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "example-swiftui-shaders.metal",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
